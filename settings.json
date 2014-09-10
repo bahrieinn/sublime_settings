@@ -1,14 +1,26 @@
 {
-	"font_size": 9,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"save_on_focus_lost": true,
-	"highlight_line":true,
-	"line_padding_bottom": 1,
-	"line_padding_top":1,
-	"fade_fold_buttons": false,
-	"bold_folder_labels": true
-}
+    // Editor Behavior
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "save_on_focus_lost": true,
 
+    // Code Formatting
+    "trim_trailing_white_space_on_save": true,
+    "translate_tabs_to_spaces": true,
+    "use_tab_stops": true,
+    "tab_size": 4,
+
+    // Editor Appearance
+
+    // Text
+    "font_size": 9,
+    "highlight_line": true,
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+
+    // Sidebar
+    "fade_fold_buttons": false,
+    "bold_folder_labels": true
+}
