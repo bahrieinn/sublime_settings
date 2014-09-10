@@ -15,7 +15,8 @@
     // Editor Appearance
 
     // Text
-    "font_size": 9,
+    "font_face": "Ubuntu Mono",
+    "font_size": 10,
     "highlight_line": true,
     "line_padding_bottom": 1,
     "line_padding_top": 1,
