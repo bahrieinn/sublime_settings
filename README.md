@@ -1,0 +1,1 @@
+Storing my sublime settings to standardize across machines.
